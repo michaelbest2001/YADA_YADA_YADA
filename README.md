@@ -1,5 +1,5 @@
 # YADA_YADA_YADA
-![alt text](http://url/to/img.png](https://images.app.goo.gl/djXj4hZR9w7b8uer9))
+![alt text](https://images.app.goo.gl/djXj4hZR9w7b8uer9)
 Demo notebook: https://colab.research.google.com/drive/1LS04RCzOe_ELyjJMK-XKCzxnQGz3j9lg?usp=sharing
 1. press the link and enter the notebook
 2. Ensure you have at least 40 GB RAM of CPU/GPU (use high-ram option if needed)
